@@ -1,2 +1,2 @@
 # cobra OS
-its an vbs file for my tests
+its the cobra OS
